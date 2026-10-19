@@ -9,6 +9,10 @@ This is a portfolio MVP, not production accounting software. AI extraction can
 be wrong; review source invoices and records yourself. The app does not provide
 tax, legal, or accounting advice and does not connect to banks.
 
+## demo link
+
+https://pocketcfo-ai-52.streamlit.app/
+
 ## What it does
 
 - Review selectable text from PDFs and prepare an editable invoice draft with
